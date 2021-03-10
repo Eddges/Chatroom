@@ -1,6 +1,6 @@
 # Welcome to ChatRoom
 
-### Chatroom is a WebSocket based realtime messaging app with room support
+### ChatRoom is a WebSocket based realtime messaging app with room support
 
 ## Installation
 
